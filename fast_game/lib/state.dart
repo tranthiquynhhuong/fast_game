@@ -1,0 +1,4 @@
+enum GameState {
+  menu,
+  playing,
+}
