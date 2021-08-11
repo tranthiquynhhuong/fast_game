@@ -9,7 +9,7 @@ Tap anywhere on the screen to start, tap the purple tile that appears at any spe
 
 Avoid letting the purple square touch the pink square for too long in the middle of the screen, the health bar will decrease and the game is over.
 
-View the highest score saved in the local memory after the end or start of the match.
+View the highest score saved in the local memory after the end or start of the game.
 
 ## Pages
 
