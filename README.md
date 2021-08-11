@@ -2,7 +2,7 @@
 
 Simple fast game application with [Flutter](https://www.flutter.dev/) & [Flame](https://pub.dev/packages/flame).
 
-Give me 1 STAR if you feel favorite it >.< Thank you bro!
+`Give me 1` 🌟 `if you feel favorite it >.< Thank you bro!`
 
 ## How to play?
 Tap anywhere on the screen to start, tap the purple tile that appears at any speed and position until it fades and disappears (3 times) and the score will increase gradually.
